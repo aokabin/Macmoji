@@ -1,3 +1,11 @@
+# Macmojiの日本語版
+
+そのうちちゃんと書きます、一旦アップロード
+インストール方法は英語版と一緒ですが、使い方が異なります。
+日本語で「てぃんきんg」と入力すると「🤔」が表示されます。
+
+ファイルは[emoji_substitutions_ja.plist](https://github.com/aokabin/Macmoji/blob/master/emoji_substitutions_ja.plist)です。
+
 ![How Macmoji works 😁](https://github.com/warpling/Macmoji/blob/master/gifs/what%20is%20it.gif?raw=true)
 
 # Installing Macmoji: as easy as 🔢
